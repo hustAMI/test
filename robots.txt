@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hustami.github.io/sitemap.xml
+Sitemap: https://hustami.github.io/test//sitemap.xml
