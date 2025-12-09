@@ -30,7 +30,7 @@
       "startDate": "1933-01-01",
       "endDate": "至今",
       "summary": "",
-      "highlights": [""]
+      "highlights": ""
     },
     {
       "name": "华中科技大学",
@@ -39,7 +39,7 @@
       "startDate": "2025-01-01",
       "endDate": "至今",
       "summary": "",
-      "highlights": [""]
+      "highlights": ""
     }
   ],
   "volunteer": [
@@ -64,7 +64,7 @@
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
-      "courses": [""]
+      "courses": ""
     }
   ],
   "awards": [
