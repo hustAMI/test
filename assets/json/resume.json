@@ -29,8 +29,17 @@
       "url": "",
       "startDate": "1933-01-01",
       "endDate": "至今",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "",
+      "highlights": [""]
+    }
+    {
+      "name": "华中科技大学",
+      "position": "院士",
+      "url": "",
+      "startDate": "2025-01-01",
+      "endDate": "至今",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "volunteer": [
@@ -49,13 +58,13 @@
     {
       "institution": "University of Zurich, Zurich, Switzerland",
       "location": "武汉",
-      "url": "https://www.uzh.ch/",
+      "url": "",
       "area": "Software Development",
       "studyType": "PhD",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [""]
     }
   ],
   "awards": [
