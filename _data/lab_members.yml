@@ -1,0 +1,45 @@
+- title: 课题组负责人
+  members:
+    - name_cn: 蔡凯明
+      name_en: Kaiming Cai
+      role: 教授
+      note: 2019年度国家青年人才计划入选者
+      email: 123123123
+      photo: /assets/img/members/xue-feng-zhu.jpg
+      detail: /people/xue-feng-zhu/
+
+- title: 教师
+  members:
+    - name_cn: 靳田丽
+      name_en: Tianli Jin
+      role: 副教授
+      note:
+      email: dgzhao@hust.edu.cn
+      photo: /assets/img/members/de-gang-zhao.jpg
+      detail: /people/de-gang-zhao/
+
+    - name_cn: 彭玉桂
+      name_en: Yu-Gui Peng
+      role: 副教授
+      note:
+      email: ygpeng@hust.edu.cn
+      photo: /assets/img/members/yu-gui-peng.jpg
+      detail: /people/yu-gui-peng/
+
+- title: 学生
+  members:
+    - name_cn: 朱玉良
+      name_en: Yu-Liang Zhu
+      role: 2024级博士生
+      note:
+      email:
+      photo: /assets/img/members/yu-liang-zhu.jpg
+      detail: /people/yu-liang-zhu/
+
+    - name_cn: 周钰卿
+      name_en: Yu-Qing Zhou
+      role: 博士后
+      note: 科技楼北315
+      email:
+      photo: /assets/img/members/yu-qing-zhou.jpg
+      detail: /people/yu-qing-zhou/
