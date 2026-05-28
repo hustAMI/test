@@ -5,7 +5,7 @@
       role: 教授
       note: 2019年度国家青年人才计划入选者
       email: 123123123
-      photo: /assets/img/members/xue-feng-zhu.jpg
+      photo: /assets/img/prof_pic.jpg
       detail: /people/xue-feng-zhu/
 
 - title: 教师
@@ -15,7 +15,7 @@
       role: 副教授
       note:
       email: dgzhao@hust.edu.cn
-      photo: /assets/img/members/de-gang-zhao.jpg
+      photo: /assets/img/prof_pic.jpg
       detail: /people/de-gang-zhao/
 
     - name_cn: 彭玉桂
@@ -23,7 +23,7 @@
       role: 副教授
       note:
       email: ygpeng@hust.edu.cn
-      photo: /assets/img/members/yu-gui-peng.jpg
+      photo: /assets/img/prof_pic.jpg
       detail: /people/yu-gui-peng/
 
 - title: 学生
@@ -33,7 +33,7 @@
       role: 2024级博士生
       note:
       email:
-      photo: /assets/img/members/yu-liang-zhu.jpg
+      photo: /assets/img/prof_pic.jpg
       detail: /people/yu-liang-zhu/
 
     - name_cn: 周钰卿
@@ -41,5 +41,5 @@
       role: 博士后
       note: 科技楼北315
       email:
-      photo: /assets/img/members/yu-qing-zhou.jpg
+      photo: /assets/img/prof_pic.jpg
       detail: /people/yu-qing-zhou/
